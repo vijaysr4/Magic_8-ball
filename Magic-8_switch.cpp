@@ -43,7 +43,6 @@ int main() {
     default:
       std::cout << "IDK.\n";
       break;
-
   }
 
   return 0;
